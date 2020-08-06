@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="anubhavkmr8 | Facebook" width="22px" src="<img src="https://img.icons8.com/android/24/000000/facebook-new.svg"/>" />][facebook]
+[<img align="left" alt="anubhavkmr8 | Facebook" width="22px" src="<src="https://img.icons8.com/android/24/000000/facebook-new.png"/>" />][facebook]
 [<img align="left" alt="anubhavkmr8 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="anubhavkmr8 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="anubhavkmr8 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -63,7 +63,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[facebook]: https://www.facebook.com/anubhav.kumar.1848/
+[facebook]: https://www.facebook.com/anubhav.kumar.1848
 [twitter]: https://twitter.com/Anubhavkmr8
 [instagram]: https://www.instagram.com/i_m_anubhav8/?hl=en
 [linkedin]: https://www.linkedin.com/in/anubhav-kumar-5831b5150
