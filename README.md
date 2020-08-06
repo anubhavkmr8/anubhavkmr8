@@ -61,7 +61,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Anubhav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anubhavkmr8&show_icons=true&hide_border=true" />
 
 [facebook]: https://www.facebook.com/anubhav.kumar.1848
 [twitter]: https://twitter.com/Anubhavkmr8
