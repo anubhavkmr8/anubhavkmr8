@@ -62,6 +62,7 @@
 [<img align="left" alt="anubhavkmr8 | Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook-new.png" />][facebook]
 <!-- PROJECTS:END -->
 
+<br />
 ---
 
 <img align="left" alt="Anubhav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anubhavkmr8&show_icons=true&hide_border=true" />
