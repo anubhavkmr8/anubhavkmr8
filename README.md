@@ -23,9 +23,9 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="C" width="26px" src="https://assets.exercism.io/tracks/c-hex-turquoise.png" />]
-[<img align="left" alt="C++" width="26px" src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" />]
-[<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />]
-[<img align="left" alt="Python" width="26px" src="https://miro.medium.com/max/3840/1*MwFQYgyVYqBZkKbPhs5J_g.jpeg" />]
+[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />]
+[<img align="left" alt="Java" width="26px" src="https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg" />]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />]
 [<img align="left" alt="JUnit" width="26px" src="https://junit.org/junit5/assets/img/junit5-logo.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
@@ -41,7 +41,7 @@
 
 ### 📺 Latest LinkedIn Posts
 <!-- LINKEDIN:START -->
-- [Amazon PPO] (https://www.linkedin.com/posts/anubhav-kumar-5831b5150_amazon-amazonintern-ppo-activity-6698082167630663680-RSBk)
+- [Amazon PPO](https://www.linkedin.com/posts/anubhav-kumar-5831b5150_amazon-amazonintern-ppo-activity-6698082167630663680-RSBk)
 - [Introduction to SDE Levels](https://www.linkedin.com/posts/anubhav-kumar-5831b5150_amazon-intoduction-to-sde-levels-activity-6692774115461349376-u7R6)
 - [Ad Products Privacy Terms and Concept](https://www.linkedin.com/posts/anubhav-kumar-5831b5150_ad-products-privacy-terms-and-concepts-activity-6697165790199869441-NzsK)
 - [Introduction to Customer Obsession](https://www.linkedin.com/posts/anubhav-kumar-5831b5150_introduction-to-customer-obsession-activity-6697167623085531138-e75k)
