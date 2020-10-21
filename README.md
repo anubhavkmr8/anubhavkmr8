@@ -9,10 +9,10 @@
 
 ### Competitive Programming Profiles:
 
-- Codeforces [walker8](https://codeforces.com/profile/Walker8) [<img align="left" alt="anubhavkmr8 | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
-- Codechef [walker8](https://www.codechef.com/users/walker8) [<img align="left" alt="anubhavkmr8 | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
-- HackerRank [walker8](https://www.hackerrank.com/walker8) [<img align="left" alt="anubhavkmr8 | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-- InterviewBit [walker8](https://www.interviewbit.com/profile/walker8) [<img align="left" alt="anubhavkmr8 | Codeforces" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTPZA3lEYsxJYiPfwd-Zl0tP3UUm6di1drjw&usqp=CAU" />][interviewbit]
+- Codeforces (max-rating: 1718) [walker8](https://codeforces.com/profile/Walker8) [<img align="left" alt="anubhavkmr8 | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+- Codechef (4 star, max-rating: 1764) [walker8](https://www.codechef.com/users/walker8) [<img align="left" alt="anubhavkmr8 | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+- HackerRank (5 star) [walker8](https://www.hackerrank.com/walker8) [<img align="left" alt="anubhavkmr8 | HackeRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+- InterviewBit (Score: 3359) [walker8](https://www.interviewbit.com/profile/walker8) [<img align="left" alt="anubhavkmr8 | InterviewBit" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTPZA3lEYsxJYiPfwd-Zl0tP3UUm6di1drjw&usqp=CAU" />][interviewbit]
 
 ### Connect with me:
 
