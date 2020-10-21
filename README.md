@@ -45,8 +45,8 @@
 
 ### 📕 Latest Projects
 <!-- PROJECTS:START -->
-- Natural Language Processing
-- Network Security
+- NATURAL LANGUAGE PROCESSING
+- NETWORK SECURITY
 - DATA STORAGE AND ANALYTICS WITH DASHBOARD
 - [FIRE DETECTION AND ALERT SYSTEM BASED ON IMAGE PROCESSING](https://github.com/anubhavkmr8/Fire-Detection-Camera)
 - [FOLLOW ME TROLLEY (EXPLORATORY PROJECT)](https://github.com/anubhavkmr8/Folloy-Me-Trolley)
