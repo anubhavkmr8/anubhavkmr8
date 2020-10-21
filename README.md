@@ -51,7 +51,7 @@
 - [FIRE DETECTION AND ALERT SYSTEM BASED ON IMAGE PROCESSING](https://github.com/anubhavkmr8/Fire-Detection-Camera)
 - [FOLLOW ME TROLLEY (EXPLORATORY PROJECT)](https://github.com/anubhavkmr8/Folloy-Me-Trolley)
 
-#### NOTE- All Projects Repo are public and beling solely to my work.
+#### NOTE- All Projects Repo are public and belong solely to my team.
 
 [<img align="left" alt="anubhavkmr8 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="anubhavkmr8 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
