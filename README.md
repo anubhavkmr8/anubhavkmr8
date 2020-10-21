@@ -7,6 +7,13 @@
 - 🥅 2020 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: I love to draw and play cricket / video games.
 
+### Competitive Programming Profiles:
+
+- Codeforces [walker8](https://codeforces.com/profile/Walker8) [<img align="left" alt="anubhavkmr8 | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+- Codechef [walker8](https://www.codechef.com/users/walker8) [<img align="left" alt="anubhavkmr8 | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+- HackerRank [walker8](https://www.hackerrank.com/walker8) [<img align="left" alt="anubhavkmr8 | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+- InterviewBit [walker8](https://www.interviewbit.com/profile/walker8) [<img align="left" alt="anubhavkmr8 | Codeforces" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTPZA3lEYsxJYiPfwd-Zl0tP3UUm6di1drjw&usqp=CAU" />][interviewbit]
+
 ### Connect with me:
 
 [<img align="left" alt="anubhavkmr8 | Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook-new.png" />][facebook]
@@ -68,3 +75,7 @@
 [gmail]: mailto:anubhavkmr8@gmail.com
 [instagram]: https://www.instagram.com/i_m_anubhav8/?hl=en
 [linkedin]: https://www.linkedin.com/in/anubhav-kumar-5831b5150
+[codeforces]: https://codeforces.com/profile/Walker8
+[codechef]: https://www.codechef.com/users/walker8
+[hackerrank]: https://www.hackerrank.com/walker8
+[interviewbit]: https://www.interviewbit.com/profile/walker8
