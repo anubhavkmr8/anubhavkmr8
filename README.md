@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything. 🤣
 - 🥅 2020 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: I love to draw and play cricket / video games.
-- 👉 Here is the link to my [portfolio](https://anubhavkmr8.github.io/).
+- 👉 Here is the link to my [Portfolio](https://anubhavkmr8.github.io/).
 
 ### Competitive Programming Profiles:
 
