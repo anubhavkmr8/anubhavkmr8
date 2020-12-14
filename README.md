@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning everything. 🤣
 - 🥅 2020 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: I love to draw and play cricket / video games.
+- 👉 Here is the link to my [portfolio](https://anubhavkmr8.github.io/).
 
 ### Competitive Programming Profiles:
 
@@ -52,8 +53,9 @@
 
 ### 📕 Latest Projects
 <!-- PROJECTS:START -->
-- NATURAL LANGUAGE PROCESSING
-- NETWORK SECURITY
+- [NATURAL LANGUAGE PROCESSING - Automation of Conversion of Raw News Headline to Grammatically Correct Form](https://github.com/anubhavkmr8/Conversion-of-Raw-News-Headline-to-Canonical-Form)
+- [NATURAL LANGUAGE PROCESSING - Statistical Machine Translation for English to Hindi Conversion](https://github.com/anubhavkmr8/Natural_Language_Processing)
+- [NETWORK SECURITY](https://github.com/anubhavkmr8/Network-Security)
 - DATA STORAGE AND ANALYTICS WITH DASHBOARD
 - [FIRE DETECTION AND ALERT SYSTEM BASED ON IMAGE PROCESSING](https://github.com/anubhavkmr8/Fire-Detection-Camera)
 - [FOLLOW ME TROLLEY (EXPLORATORY PROJECT)](https://github.com/anubhavkmr8/Folloy-Me-Trolley)
