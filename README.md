@@ -4,7 +4,7 @@
 - 👯 I’m actively looking for an opportunity in Software domain.
 - 🔭 I’m currently working on a NLP Project!
 - 🌱 I’m currently learning everything. 🤣
-- 🥅 2020 Goals: Contribute to Open Source projects.
+- 🥅 2021 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: I love to draw and play cricket / video games.
 - 👉 Here is the link to my [Portfolio](https://anubhavkmr8.github.io/).
 
